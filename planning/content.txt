@@ -22,7 +22,7 @@ q2: Soothsayer
 
 b1: So who are you panda?
 b2: I am IRONMAN!
-b3: Avergers Assemble!
+b3: Avengers Assemble!
 
 
 f1: Copyright © Panda And Avergers
