@@ -1,0 +1,28 @@
+h1: motivational panda
+h2: energetic panda
+h3: eating panda
+h4: sleeping panda
+
+c1: Hey there, I'm Po.
+c2: I find today's world full of distraction and people don't have displine to do what they want to do. So lets get you motivated!
+c3: LET'S GO!!!
+
+m1: Some inspirational words from people I know.
+m2: You are too concerned with what was and what will be. -Oogway
+m3: A real warrior never quits. -Po
+m4: There is no secret ingrediet. Don't have to. To make make something special, you just believe it's special. -Mr Ping
+m5: Before the battle of the fist, comes the battle of the mind. -shifu
+
+q1: Your story may not have such a happy beginning,
+but that doesn’t make you who you are.
+It is the rest of your story
+who you choose to be.
+
+q2: Soothsayer
+
+b1: So who are you panda?
+b2: I am IRONMAN!
+b3: Avergers Assemble!
+
+
+f1: Copyright © Panda And Avergers
