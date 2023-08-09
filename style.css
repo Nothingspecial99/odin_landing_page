@@ -17,7 +17,7 @@
 }
 
 .header{
-    height: 400px;
+    height: 450px;
     display: flex;
     justify-content: center;
     background: #1f2937;
@@ -58,9 +58,11 @@ ul a {
 
     /* LEFT SIDE STYLING STARTS HERE */
 .first{
+    width: 100%;
     display: flex;
     margin-top: 48px;
     padding: 16px;
+    gap: 100px;
 }
 
 .first .left h1 {
@@ -73,6 +75,7 @@ ul a {
 .first .left p {
     font-size: 18px;
     color: #e5e7eb;
+    width: 362px;
 }
 
 .first .left button {
@@ -87,4 +90,13 @@ ul a {
 
 }
     /* LEFT SIDE STYLING ENDS HERE */
-    
+    /* RIGHT SIDE  */
+.first .right img {
+    width: 550px;
+    border: 1px solid white;
+    margin-top: -30px;
+}
+
+    /* RIGHT SIDE */
+
+
