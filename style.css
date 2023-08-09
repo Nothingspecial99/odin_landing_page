@@ -222,4 +222,16 @@ ul a {
 }
 /* SECTION FOUR END */
 
+/* FOOTER START */
+.footer {
+    height: 100px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
 
+/* FOOTER END */
