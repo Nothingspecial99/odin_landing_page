@@ -25,4 +25,4 @@ b2: I am IRONMAN!
 b3: Avengers Assemble!
 
 
-f1: Copyright © Panda And Avergers
+f1: Copyright © Panda And Avengers
