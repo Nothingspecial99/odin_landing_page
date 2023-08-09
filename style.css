@@ -90,13 +90,19 @@ ul a {
 
 }
     /* LEFT SIDE STYLING ENDS HERE */
-    /* RIGHT SIDE  */
+    /* RIGHT SIDE START*/
 .first .right img {
     width: 550px;
     border: 1px solid white;
+    border-width: 2px 2px 2px 1px;
     margin-top: -30px;
 }
 
-    /* RIGHT SIDE */
+    /* RIGHT SIDE END*/
+/* SECTION ONE END */
+
+
+
+
 
 
