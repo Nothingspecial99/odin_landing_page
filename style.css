@@ -127,8 +127,9 @@ ul a {
 
 .second .wrapper {
     display: flex;
+    padding: 0 70px;
     justify-content: space-between;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 
 }
 .wrapper img {
@@ -148,6 +149,37 @@ ul a {
 
 /* SECTION TWO END */
 
+/* SECTION THREE START */
+.three {
+    background-color: #e5e7eb;
+    height: 300px;
+}
+
+.three .sub-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.three .sub-wrapper div{
+    width: 80%;
+}
+.three .sub-wrapper p{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#author{
+    align-self: end;
+    margin-right: 180px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+}
+/* SECTION THREE END */
 
 
 
