@@ -181,5 +181,45 @@ ul a {
 }
 /* SECTION THREE END */
 
+/* SECTION FOUR START */
+.four {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.four-wrapper{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#3882f6;
+    padding: 32px 100px;
+    border-radius: 7px;
+}
+
+.t1 {
+    font-size: 24px;
+    color: #e5e7eb;
+    font-weight: bold;
+}
+
+.t2 {
+    color: #f9faf8;
+    letter-spacing: 2px;
+    font-size: 32px;
+}
+
+.four-wrapper button{
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    height: 48px;
+    font-size: 15px;
+    padding: 0 12px;
+    color: #f9faf8;
+    border-radius: 8px;
+}
+/* SECTION FOUR END */
 
 
